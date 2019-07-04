@@ -5,6 +5,10 @@
   "author": "Dotsung <andy395023@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "babel-preset-env": "^1.7.0",
+    "dotenv": "^8.0.0",
     "graphql-yoga": "^1.18.0"
   },
   "devDependencies": {
